@@ -1,0 +1,375 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 320px) {
+    .slider-text {
+        padding-top: 0px;
+        padding-bottom: 30px;
+        padding-left: 6px;
+        text-align: center;
+        padding-right: 6px;
+    }
+    .slider-text h2 {
+        font-size: 33px;
+    }
+    .slider-text p {
+        font-size: 15px;
+    }
+    .btn-custom {
+        background: #fc1571;
+        color: #ffffff;
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+    .btn-custom:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 10px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .slider-img img {
+        width: 50%;
+        margin-left: 77px;
+        padding-bottom: 0px;
+    }
+    .catagory-part {
+        padding: 15px 0px;
+    }
+    .catagory-all {
+        padding-bottom: 10px;
+    }
+    .all-cata-img img {
+        left: 294px;
+        width: 22%;
+    }
+    .all-cata-text h3 {
+        left: 50px;
+        font-size: 33px;
+        top: 21px;
+    }
+    .all-cata-img img {
+        left: 198px;
+        width: 24%;
+    }
+    .shoe-part {
+        padding-bottom: 0px;
+    }
+    .shoe-heading h4 {
+        text-align: center;
+        font-weight: bold;
+        padding-top: 10px;
+    }
+    .shoe-card-shadow {
+        text-align: center;
+    }
+    .backpack-part {
+        padding-bottom: 30px;
+    }
+    .backpack-heading h4 {
+        text-align: center;
+        font-weight: bold;
+    }
+    .backpack-card-shadow {
+        text-align: center;
+    }
+    .contact-part {
+        padding: 15px 0px;
+    }
+    .contact-content h3 {
+        font-size: 20px;
+    }
+    .contact-content p {
+        font-size: 11px;
+        line-height: 1%;
+    }
+    .form-design {
+        width: 73%;
+    }
+    .form-control {
+        height: 25px;
+        font-size: 12px;
+    }
+    .submit-button {
+        margin-top: 6px;
+        margin-right: 52%;
+        height: 24px;
+        font-size: 9px;
+    }
+    .submit-button:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 10px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .footer-part {
+        padding-top: 10px;
+    }
+    .footer-text p {
+        margin-bottom: 10px;
+        font-size: 12px;
+    }
+}
+@media (min-width: 480px) and (max-width: 575.98px) {
+    .slider-text {
+        padding-top: 8px;
+        padding-bottom: 30px;
+        padding-left: 6px;
+        text-align: center;
+        padding-right: 6px;
+    }
+    .slider-text p {
+        width: 80%;
+        padding-left: 92px;
+        font-size: 15px;
+    }
+    .btn-custom {
+        background: #fc1571;
+        color: #ffffff;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+    .btn-custom:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 12px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .slider-img img {
+        width: 50%;
+        margin-left: 127px;
+        padding-bottom: 0px;
+        padding-top: -7px;
+    }
+    .catagory-all {
+        padding-bottom: 15px;
+    }
+    .all-cata-img img {
+        left: 294px;
+        width: 22%;
+    }
+    .all-cata-text h3 {
+        left: 72px;
+        font-size: 40px;
+    }
+    .shoe-part {
+        padding-bottom: 0px;
+    }
+    .shoe-heading h4 {
+        text-align: center;
+        font-weight: bold;
+        padding-top: 10px;
+    }
+    .shoe-card-shadow {
+        text-align: center;
+    }
+    .backpack-heading h4 {
+        text-align: center;
+        font-weight: bold;
+    }
+    .backpack-card-shadow {
+        text-align: center;
+    }
+    .contact-content h3 {
+        font-size: 20px;
+    }
+    .contact-content p {
+        font-size: 11px;
+        line-height: 1%;
+    }
+    .form-design {
+        width: 47%;
+    }
+    .form-control {
+        height: 25px;
+        font-size: 12px;
+    }
+    .submit-button {
+        margin-top: 10px;
+        margin-right: 32%;
+        height: 27px;
+        font-size: 10px;
+    }
+    .submit-button:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 11px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .footer-text p {
+        font-size: 12px;
+    }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .slider-text {
+        padding-top: 8px;
+        padding-bottom: 30px;
+        padding-left: 6px;
+        text-align: center;
+        padding-right: 6px;
+    }
+    .slider-text p {
+        width: 80%;
+        padding-left: 92px;
+        font-size: 15px;
+    }
+    .btn-custom {
+        background: #fc1571;
+        color: #ffffff;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+    .btn-custom:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 13px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .slider-img img {
+        width: 50%;
+        margin-left: 127px;
+        padding-bottom: 0px;
+        padding-top: -7px;
+    }
+    .catagory-part {
+        padding: 12px 0px;
+    }
+    .all-cata-text h3 {
+        top: 16px;
+        left: 30px;
+        font-size: 22px;
+    }
+    .all-cata-img img {
+        right: 10px;
+        width: 100%;
+    }
+    .shoe-part {
+        padding-bottom: 0px;
+    }
+    .shoe-text p {
+        font-weight: lighter;
+        font-size: 15px;
+    }
+    .btn-sm {
+        font-size: 10px;
+    }
+    .btn-sm:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 11px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .backpack-part {
+        padding: 15px 0px;
+    }
+    .backpack-text p {
+        font-weight: lighter;
+        font-size: 15px;
+    }
+    .contact-part {
+        padding: 12px 0px;
+    }
+    .contact-content h3 {
+        font-size: 18px;
+        padding-bottom: 2px;
+    }
+    .contact-content p {
+        font-size: 10px;
+        line-height: 15%;
+    }
+    .form-design {
+        width: 38%;
+    }
+    .form-control {
+        height: 27px;
+        font-size: 12px;
+    }
+    .submit-button {
+        margin-top: 10px;
+        margin-right: 25%;
+        height: 27px;
+        font-size: 10px;
+    }
+    .submit-button:hover {
+        background: #ffffff;
+        color: #fc1571;
+        font-size: 11px;
+        text-transform: uppercase;
+        border: 1px solid #fc1571;
+    }
+    .footer-part {
+        padding-top: 16px;
+        padding-bottom: 0px;
+    }
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .slider-text {
+        padding-top: 8px;
+        padding-bottom: 30px;
+        padding-left: 6px;
+        text-align: center;
+        padding-right: 6px;
+    }
+    .slider-img img {
+        width: 50%;
+        margin-left: 172px;
+        padding-bottom: 0px;
+        padding-top: -7px;
+    }
+    .catagory-part {
+        padding: 15px 0px;
+    }
+    .all-cata-text h3 {
+        top: 25px;
+        left: 34px;
+        font-size: 30px;
+    }
+    .all-cata-img img {
+        right: 10px;
+        width: 100%;
+    }
+    .shoe-part {
+        padding-bottom: 0px;
+    }
+    .form-design {
+        width: 37%;
+    }
+    .submit-button {
+        margin-right: 26%;
+    }
+    .footer-part {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .slider-img img {
+        padding-top: 33px;
+    }
+    .all-cata-text h3 {
+        top: 23px;
+    }
+    .form-design {
+        width: 27%;
+    }
+    .submit-button {
+        margin-right: 19%;
+    }
+    .footer-part {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .footer-part {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+}
